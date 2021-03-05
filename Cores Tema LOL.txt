@@ -1,0 +1,5 @@
+Azul claro = #365673
+Azul escuro = #121D26
+Dourado = #BFB52A
+Amarelo forte = #E5B60C
+Amarelo marrom = #BF820F
