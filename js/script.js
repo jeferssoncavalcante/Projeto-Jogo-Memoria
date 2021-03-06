@@ -9,7 +9,7 @@ function carregaJSON(filename) {
 carregaJSON('');*/
 let imagens = [];
 
-for(let i = 1; i < 6; i++) imagens.push(`https://picsum.photos/id/${i}/80`);
+for(let i = 0; i < 6; i++) imagens.push(`https://picsum.photos/id/${i}/80`);
 let fundo = `./img/logo.png`;
 
 // Estado do jogo
