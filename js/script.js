@@ -10,7 +10,7 @@ carregaJSON('');*/
 let imagens = [];
 
 for(let i = 1; i < 6; i++) imagens.push(`https://picsum.photos/id/${i}/80`);
-let fundo = `./img/logo.png`;
+let fundo = `./img/lol/logo.png`;
 
 // Estado do jogo
 let cartas = [1,1,2,2,3,3,4,4,5,5,6,6];
