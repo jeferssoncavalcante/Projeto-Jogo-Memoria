@@ -15,7 +15,8 @@ function adicionaColuna(Id,Url) {
 carregaJSON('json/imagens.json');
 function Teste(){
     adicionaLinha();
-    for (i = 0; i < 12; i++) {
+    for (i = 0; i < 6; i++) {
+        adicionaColuna(dados[i].Id, dados[i].Url);
         adicionaColuna(dados[i].Id, dados[i].Url);
     }
 }

@@ -1,4 +1,4 @@
-/*var dados
+var dados
 function carregaJSON(filename) {
     fetch(`${filename}`)
     .then(response => response.json())
@@ -6,10 +6,11 @@ function carregaJSON(filename) {
     dados = data})
     .catch(error => console.error(error));
 }
-carregaJSON('');*/
+carregaJSON('json/images1.json');
+
 let imagens = [];
 
-for(let i = 1; i < 6; i++) imagens.push(`https://picsum.photos/id/${i}/80`);
+for(let i = 1; i < 6; i++) imagens.push();
 let fundo = `./img/lol/logo.png`;
 
 // Estado do jogo
