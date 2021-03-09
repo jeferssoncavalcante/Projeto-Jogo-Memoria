@@ -1,48 +1,105 @@
 [{
     "Id": "0",
-    "Url": "./img/lol/aatrox.png"
+    "Url": "./img/lol/aatrox.png",
+    "Name": "Aatrox"
 },
 {
     "Id": "1",
-    "Url": "./img/lol/ahri.png"
+    "Url": "./img/lol/ahri.png",
+    "Name": "Ahri"
 },
 {
     "Id": "2",
-    "Url": "./img/lol/akali.png"
+    "Url": "./img/lol/akali.png",
+    "Name": "Akali"
 },
 {
     "Id": "3",
-    "Url": "./img/lol/aatrox.png"
+    "Url": "./img/lol/blitzcrank.png",
+    "Name": "Blitzcrank"
 },
 {
     "Id": "4",
-    "Url": "./img/lol/alistar.png"
+    "Url": "./img/lol/alistar.png",
+    "Name": "Alistar"
 },
 {
     "Id": "5",
-    "Url": "./img/lol/amumu.png"
+    "Url": "./img/lol/amumu.png",
+    "Name": "Amumu"
 },
 {
     "Id": "6",
-    "Url": "./img/lol/anivia.png"
+    "Url": "./img/lol/anivia.png",
+    "Name": "Anivia"
 },
 {
     "Id": "7",
-    "Url": "./img/lol/annie.png"
+    "Url": "./img/lol/annie.png",
+    "Name": "Annie"
 },
 {
     "Id": "8",
-    "Url": "./img/lol/ashe.png"
+    "Url": "./img/lol/ashe.png",
+    "Name": "Ashe"
 },
 {
     "Id": "9",
-    "Url": "./img/lol/aurelion-sol.png"
+    "Url": "./img/lol/aurelion-sol.png",
+    "Name": "Aurelion Sol"
 },
 {
     "Id": "10",
-    "Url": "./img/lol/azir.png"
+    "Url": "./img/lol/azir.png",
+    "Name": "Azir"
 },
 {
     "Id": "11",
-    "Url": "./img/lol/bard.png"
+    "Url": "./img/lol/bard.png",
+    "Name": "Bardo"
+},
+{
+    "id": "12",
+    "Url": "./img/lol/brand.png",
+    "Name": "Brand"
+},
+{
+    "id": "13",
+    "Url": "./img/lol/braum.png",
+    "Name": "Braum"
+},
+{
+    "id": "14",
+    "Url": "./img/lol/caitlyn.png",
+    "Name": "Caitlyn"
+},
+{
+    "id": "15",
+    "Url": "./img/lol/camille.png",
+    "Name": "Camille"
+},
+{
+    "id": "16",
+    "Url": "./img/lol/cassiopeia.png",
+    "Name": "Cassiopeia"
+},
+{
+    "id": "17",
+    "Url": "./img/lol/chogath.png",
+    "Name": "Chogath"
+},
+{
+    "id": "18",
+    "Url": "./img/lol/corki.png",
+    "Name": "Corki"
+},
+{
+    "id": "19",
+    "Url": "./img/lol/darius.png",
+    "Name": "Darius"
+},
+{
+    "id": "20",
+    "Url": "./img/lol/diana.png",
+    "Name": "Diana"
 }]
