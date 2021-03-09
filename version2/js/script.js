@@ -16,8 +16,9 @@ carregaJSON('json/imagens.json');
 function Teste(){
     adicionaLinha();
     for (i = 0; i < 6; i++) {
-        adicionaColuna(dados[i].Id, dados[i].Url);
-        adicionaColuna(dados[i].Id, dados[i].Url);
+        var num = Math.floor(Math.random() * 21);
+        adicionaColuna(dados[num].Id, dados[num].Url);
+        adicionaColuna(dados[num].Id, dados[num].Url);
     }
 }
 /*const cards = document.querySelectorAll('.col-3');
