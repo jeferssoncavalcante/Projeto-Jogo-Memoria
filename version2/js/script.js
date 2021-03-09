@@ -10,7 +10,7 @@ function adicionaLinha(){
 }
 
 function adicionaColuna(Id,Url) {
-    document.getElementById(`linha`).innerHTML += `<div class="col-3"><img id="${Id}" src="${Url}" alt="" ></div>`;
+    document.getElementById(`linha`).innerHTML += `<div class="col-3"><img class="front-face" id="${Id}" src="${Url}" alt="Face da Carta" ></div>`;
 }
 carregaJSON('json/imagens.json');
 function Teste(){
@@ -20,3 +20,10 @@ function Teste(){
         adicionaColuna(dados[i].Id, dados[i].Url);
     }
 }
+/*const cards = document.querySelectorAll('.col-3');
+
+function flipCard() {
+  this.classList.toggle('flip');
+}
+
+cards.forEach(card => card.addEventListener('click', flipCard));*/
