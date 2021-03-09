@@ -18,5 +18,4 @@ function Teste(){
     for (i = 0; i < 12; i++) {
         adicionaColuna(dados[i].Id, dados[i].Url);
     }
-
 }
