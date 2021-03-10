@@ -5,15 +5,18 @@ function carregaJSON(filename) {
     dados = data})
     .catch(error => console.error(error));
 }
-function adicionaLinha(){
-    document.getElementById("imagens").innerHTML += `<div class="row" id="linha"></div>`
+function adicionaDivImagens(){
+    document.getElementById("memoria").innerHTML += `<div id="imagens"></div>`;
 }
-
+function adicionaLinha(){
+    document.getElementById("imagens").innerHTML += `<div class="row" id="linha"></div>`;
+}
 function adicionaColuna(Id,Url) {
     document.getElementById(`linha`).innerHTML += `<div class="col-3"><img class="front-face" id="${Id}" src="${Url}" alt="Face da Carta" ></div>`;
 }
 carregaJSON('json/imagens.json');
 function Teste(){
+    adicionaDivImagens();
     adicionaLinha();
     for (i = 0; i < 6; i++) {
         var num = Math.floor(Math.random() * 50);
