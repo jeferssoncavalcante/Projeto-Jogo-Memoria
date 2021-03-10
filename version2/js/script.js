@@ -16,7 +16,7 @@ carregaJSON('json/imagens.json');
 function Teste(){
     adicionaLinha();
     for (i = 0; i < 6; i++) {
-        var num = Math.floor(Math.random() * 21);
+        var num = Math.floor(Math.random() * 50);
         adicionaColuna(dados[num].Id, dados[num].Url);
         adicionaColuna(dados[num].Id, dados[num].Url);
     }

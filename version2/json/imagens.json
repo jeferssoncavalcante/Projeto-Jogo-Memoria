@@ -102,4 +102,149 @@
     "id": "20",
     "Url": "./img/lol/diana.png",
     "Name": "Diana"
+},
+{
+    "id": "21",
+    "Url": "./img/lol/dr-mundo.png",
+    "Name": "Dr Mundo"
+},
+{
+    "id": "22",
+    "Url": "./img/lol/draven.png",
+    "Name": "Draven"
+},
+{
+    "id": "23",
+    "Url": "./img/lol/ekko.png",
+    "Name": "Ekko"
+},
+{
+    "id": "24",
+    "Url": "./img/lol/elise.png",
+    "Name": "Elise"
+},
+{
+    "id": "25",
+    "Url": "./img/lol/evelynn.png",
+    "Name": "Evelyn"
+},
+{
+    "id": "26",
+    "Url": "./img/lol/ezreal.png",
+    "Name": "Ezreal"
+},
+{
+    "id": "27",
+    "Url": "./img/lol/fiddlesticks.png",
+    "Name": "Fiddlesticks"
+},
+{
+    "id": "28",
+    "Url": "./img/lol/fiora.png",
+    "Name": "Fiora"
+},
+{
+    "id": "29",
+    "Url": "./img/lol/fizz.png",
+    "Name": "Fizz"
+},
+{
+    "id": "30",
+    "Url": "./img/lol/galio.png",
+    "Name": "Galio"
+},
+{
+    "id": "31",
+    "Url": "./img/lol/gangplank.png",
+    "Name": "Gangplank"
+},
+{
+    "id": "32",
+    "Url": "./img/lol/garen.png",
+    "Name": "Garen"
+},
+{
+    "id": "33",
+    "Url": "./img/lol/gnar.png",
+    "Name": "Gnar"
+},
+{
+    "id": "34",
+    "Url": "./img/lol/gragas.png",
+    "Name": "Gragas"
+},
+{
+    "id": "35",
+    "Url": "./img/lol/graves.png",
+    "Name": "Graves"
+},
+{
+    "id": "36",
+    "Url": "./img/lol/hecarim.png",
+    "Name": "Hecarim"
+},
+{
+    "id": "37",
+    "Url": "./img/lol/heimerdinger.png",
+    "Name": "Heimerdinger"
+},
+{
+    "id": "38",
+    "Url": "./img/lol/illaoi.png",
+    "Name": "Illoi"
+},
+{
+    "id": "39",
+    "Url": "./img/lol/irelia.png",
+    "Name": "Irelia"
+},
+{
+    "id": "40",
+    "Url": "./img/lol/ivern.png",
+    "Name": "Ivern"
+},
+{
+    "id": "41",
+    "Url": "./img/lol/janna.png",
+    "Name": "Janna"
+},
+{
+    "id": "42",
+    "Url": "./img/lol/jarvan-iv.png",
+    "Name": "Jarvan IV"
+},
+{
+    "id": "43",
+    "Url": "./img/lol/jax.png",
+    "Name": "Jax"
+},
+{
+    "id": "44",
+    "Url": "./img/lol/jayce.png",
+    "Name": "Jayce"
+},
+{
+    "id": "45",
+    "Url": "./img/lol/jhin.png",
+    "Name": "Jhin"
+},
+{
+    "id": "46",
+    "Url": "./img/lol/jinx.png",
+    "Name": "Jinx"
+},
+{
+    "id": "47",
+    "Url": "./img/lol/kaisa.png",
+    "Name": "Kai'sa"
+},
+{
+    "id": "48",
+    "Url": "./img/lol/kalista.png",
+    "Name": "Kalista"
+},
+{
+    "id": "49",
+    "Url": "./img/lol/karma.png",
+    "Name": "Karma"
 }]
