@@ -4,21 +4,20 @@
     text-align: center;
 }
 .card {
+    position: relative;
     max-width: 50rem;
-    max-height: 50rem;
     margin: auto;
+    margin-top: 55px;
     border-radius: 15px;
-
 }
-.card-footer {
-    height: 10rem;
-}
-#memoria {
-    /*max-width: 30rem;*/
+#imagens {
     margin: auto;
  }
+ #cLol {
+     margin-top: 100px;
+ }
  #memoria img {
-    margin-bottom: 20px;
+    margin-top: 20px;
     border: thin solid black;
     width: 100px;
     height: 100px;
