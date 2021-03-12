@@ -5,246 +5,251 @@
 },
 {
     "Id": "1",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Ahri"
+    "Url": "./img/pokemon/articuno.png",
+    "Name": "Articuno"
 },
 {
     "Id": "2",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Akali"
+    "Url": "./img/pokemon/bulbasauro.png",
+    "Name": "Bulbasauro"
 },
 {
     "Id": "3",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Blitzcrank"
+    "Url": "./img/pokemon/chansey.png",
+    "Name": "Chansey"
 },
 {
     "Id": "4",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Alistar"
+    "Url": "./img/pokemon/charmander.png",
+    "Name": "Charmander"
 },
 {
     "Id": "5",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Amumu"
+    "Url": "./img/pokemon/chikorita.png",
+    "Name": "Chikorita"
 },
 {
     "Id": "6",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Anivia"
+    "Url": "./img/pokemon/clefairy.png",
+    "Name": "Clafeiry"
 },
 {
     "Id": "7",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Annie"
+    "Url": "./img/pokemon/cubone.png",
+    "Name": "Cubone"
 },
 {
     "Id": "8",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Ashe"
+    "Url": "./img/pokemon/diglett.png",
+    "Name": "Diglett"
 },
 {
     "Id": "9",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Aurelion Sol"
+    "Url": "./img/pokemon/ditto.png",
+    "Name": "Ditto"
 },
 {
     "Id": "10",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Azir"
+    "Url": "./img/pokemon/dratini.png",
+    "Name": "Dratini"
 },
 {
     "Id": "11",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Bardo"
+    "Url": "./img/pokemon/eevee",
+    "Name": "Eevee"
 },
 {
-    "id": "12",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Brand"
+    "Id": "12",
+    "Url": "./img/pokemon/exeggcute.png",
+    "Name": "Exeggcute"
 },
 {
-    "id": "13",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Braum"
+    "Id": "13",
+    "Url": "./img/pokemon/gastly.png",
+    "Name": "Gastly"
 },
 {
-    "id": "14",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Caitlyn"
+    "Id": "14",
+    "Url": "./img/pokemon/geodude.png",
+    "Name": "Geodude"
 },
 {
-    "id": "15",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Camille"
+    "Id": "15",
+    "Url": "./img/pokemon/growlithe.png",
+    "Name": "Growlithe"
 },
 {
-    "id": "16",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Cassiopeia"
+    "Id": "16",
+    "Url": "./img/pokemon/hitmonchan.png",
+    "Name": "Hitmonchan"
 },
 {
-    "id": "17",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Chogath"
+    "Id": "17",
+    "Url": "./img/pokemon/hitmonlee.png",
+    "Name": "Hitmonlee"
 },
 {
-    "id": "18",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Corki"
+    "Id": "18",
+    "Url": "./img/pokemon/horsea.png",
+    "Name": "Horsea"
 },
 {
-    "id": "19",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Darius"
+    "Id": "19",
+    "Url": "./img/pokemon/jigglypuff.png",
+    "Name": "Jigglypuff"
 },
 {
-    "id": "20",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Diana"
+    "Id": "20",
+    "Url": "./img/pokemon/jynx.png",
+    "Name": "Jynx"
 },
 {
-    "id": "21",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Dr Mundo"
+    "Id": "21",
+    "Url": "./img/pokemon/koffing.png",
+    "Name": "Koffing"
 },
 {
-    "id": "22",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Draven"
+    "Id": "22",
+    "Url": "./img/pokemon/krabby.png",
+    "Name": "Krabby"
 },
 {
-    "id": "23",
-    "Url": "./img/pokemon/abra.png",,
-    "Name": "Ekko"
+    "Id": "23",
+    "Url": "./img/pokemon/lapras.png",
+    "Name": "Lapras"
 },
 {
-    "id": "24",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Elise"
+    "Id": "24",
+    "Url": "./img/pokemon/machop.png",
+    "Name": "Machop"
 },
 {
-    "id": "25",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Evelyn"
+    "Id": "25",
+    "Url": "./img/pokemon/magikarp.png",
+    "Name": "Magikarp"
 },
 {
-    "id": "26",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Ezreal"
+    "Id": "26",
+    "Url": "./img/pokemon/meowth.png",
+    "Name": "Meowth"
 },
 {
-    "id": "27",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Fiddlesticks"
+    "Id": "27",
+    "Url": "./img/pokemon/mewtwo.png",
+    "Name": "Mewtwo"
 },
 {
-    "id": "28",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Fiora"
+    "Id": "28",
+    "Url": "./img/pokemon/moltres.png",
+    "Name": "Moltres"
 },
 {
-    "id": "29",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Fizz"
+    "Id": "29",
+    "Url": "./img/pokemon/mrmime.png",
+    "Name": "MrMime"
 },
 {
-    "id": "30",
-    "Url": "./img/pokemon/abra.png",,
-    "Name": "Galio"
+    "Id": "30",
+    "Url": "./img/pokemon/oddish.png",
+    "Name": "Oddish"
 },
 {
-    "id": "31",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Gangplank"
+    "Id": "31",
+    "Url": "./img/pokemon/omanyte.png",
+    "Name": "Omanyte"
 },
 {
-    "id": "32",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Garen"
+    "Id": "32",
+    "Url": "./img/pokemon/onix.png",
+    "Name": "Onix"
 },
 {
-    "id": "33",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Gnar"
+    "Id": "33",
+    "Url": "./img/pokemon/pikachu.png",
+    "Name": "Pikachu"
 },
 {
-    "id": "34",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Gragas"
+    "Id": "34",
+    "Url": "./img/pokemon/ponyta.png",
+    "Name": "Ponyta"
 },
 {
-    "id": "35",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Graves"
+    "Id": "35",
+    "Url": "./img/pokemon/poliwag.png",
+    "Name": "Poliwag"
 },
 {
-    "id": "36",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Hecarim"
+    "Id": "36",
+    "Url": "./img/pokemon/porygon.png",
+    "Name": "Porygon"
 },
 {
-    "id": "37",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Heimerdinger"
+    "Id": "37",
+    "Url": "./img/pokemon/psyduck.png",
+    "Name": "Psyduck"
 },
 {
-    "id": "38",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Illoi"
+    "Id": "38",
+    "Url": "./img/pokemon/rattata.png",
+    "Name": "Rattata"
 },
 {
-    "id": "39",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Irelia"
+    "Id": "39",
+    "Url": "./img/pokemon/seel.png",
+    "Name": "Seel"
 },
 {
-    "id": "40",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Ivern"
+    "Id": "40",
+    "Url": "./img/pokemon/shellder.png",
+    "Name": "Shellder"
 },
 {
-    "id": "41",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Janna"
+    "Id": "41",
+    "Url": "./img/pokemon/slowpoke.png",
+    "Name": "Slowpoke"
 },
 {
-    "id": "42",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Jarvan IV"
+    "Id": "42",
+    "Url": "./img/pokemon/snorlax.png",
+    "Name": "Snorlax"
 },
 {
-    "id": "43",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Jax"
+    "Id": "43",
+    "Url": "./img/pokemon/squirtle.png",
+    "Name": "Squirtle"
 },
 {
-    "id": "44",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Jayce"
+    "Id": "44",
+    "Url": "./img/pokemon/staryu.png",
+    "Name": "Staryu"
 },
 {
-    "id": "45",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Jhin"
+    "Id": "45",
+    "Url": "./img/pokemon/tangela.png",
+    "Name": "Tangela"
 },
 {
-    "id": "46",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Jinx"
+    "Id": "46",
+    "Url": "./img/pokemon/vulpix.png",
+    "Name": "Vulpix"
 },
 {
-    "id": "47",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Kai'sa"
+    "Id": "47",
+    "Url": "./img/pokemon/zapdos.png",
+    "Name": "Zapdos"
 },
 {
-    "id": "48",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Kalista"
+    "Id": "48",
+    "Url": "./img/pokemon/espion.png",
+    "Name": "Espion"
 },
 {
-    "id": "49",
-    "Url": "./img/pokemon/abra.png",
-    "Name": "Karma"
+    "Id": "49",
+    "Url": "./img/pokemon/sylveon.png",
+    "Name": "Sylveon"
+},
+{
+    "Id": "50",
+    "Url": "./img/pokemon/umbreon.png",
+    "Name": "Umbreon"
 }]
