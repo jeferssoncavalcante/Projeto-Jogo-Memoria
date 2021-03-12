@@ -27,6 +27,13 @@ temas.addEventListener('change',function carregaTema(){
         carregaJSON('json/imagensLol.json')
     }
 })
+const cards = document.querySelectorAll('.col-3');
+function shuffle() {
+    cards.forEach(card => {
+        let ramdomPos = Math.floor(Math.random() * 12);
+        card.nodeValue = ramdomPos;
+    });
+} 
 function Teste(){
     limpaPagina();
     adicionaDivImagens();
@@ -50,5 +57,5 @@ else if (select.selectedIndex == 2) {
             adicionaColuna(dados[num].Id, dados[num].Url);
             adicionaColuna(dados[num].Id, dados[num].Url);
         }
-    }   
+    }
 }
