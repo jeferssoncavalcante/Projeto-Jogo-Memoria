@@ -17,7 +17,11 @@ function adicionaLinha(){
 function adicionaColuna(Id,Url,col) {
     document.getElementById(`linha`).innerHTML += `<div class="col-${col}"><img class="front-face" id="${Id}" src="${Url}" alt="Face da Carta" ></div>`;
 }
+var League = document.getElementById('tema');
+var lol = League.options[League.selectedIndex].lol;
+if (League.lol == 238) {
 carregaJSON('json/imagens.json');
+}
 var select = document.getElementById('dificuldade');
 var value = select.options[select.selectedIndex].value;
 /*select.addEventListener('change', function(){
