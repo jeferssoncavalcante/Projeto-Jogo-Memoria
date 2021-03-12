@@ -17,11 +17,14 @@ function adicionaLinha(){
 function adicionaColuna(Id,Url,col) {
     document.getElementById(`linha`).innerHTML += `<div class="col-${col}"><img class="front-face" id="${Id}" src="${Url}" alt="Face da Carta" ></div>`;
 }
-var League = document.getElementById('tema');
-var lol = League.options[League.selectedIndex].lol;
-if (League.lol == 238) {
-carregaJSON('json/imagens.json');
-}
+/*var select1 = document.getElementById('tema');
+var value1 = select1.options[select1.selectedIndex].value1;
+select1.addEventListener('change', function(){
+    console.log(select1.value1)
+})*/
+/*if (select1.value1 == 238) {*/
+carregaJSON('json/imagensLol.json');
+/*}*/
 var select = document.getElementById('dificuldade');
 var value = select.options[select.selectedIndex].value;
 /*select.addEventListener('change', function(){
