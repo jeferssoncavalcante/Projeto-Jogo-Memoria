@@ -23,8 +23,10 @@ var select = document.getElementById('dificuldade');
 temas.addEventListener('change',function carregaTema(){
     if (temas.selectedIndex == 1){
         carregaJSON('json/imagensPokemon.json');
-    } else {
+    } else if (temas.selectedIndex == 2) {
         carregaJSON('json/imagensLol.json')
+    } else {
+        carregaJSON('json/imagensMarvel-DC.json')
     }
 })
 const cards = document.querySelectorAll('.col-3');
